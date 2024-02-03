@@ -1,4 +1,4 @@
-<img align="left" height="300" src="https://media1.tenor.com/m/JjoBUmFSJzQAAAAC/muichiro.gif"  />
+<img align="left" height="270" src="https://media1.tenor.com/m/JjoBUmFSJzQAAAAC/muichiro.gif"  />
 
 ###
 
