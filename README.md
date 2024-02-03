@@ -1,16 +1,18 @@
-<img align="left" height="270" src="https://media1.tenor.com/m/JjoBUmFSJzQAAAAC/muichiro.gif"  />
+<div align="center">
+  <img height="350" src="https://media1.tenor.com/m/JjoBUmFSJzQAAAAC/muichiro.gif"  />
+</div>
 
 ###
 
-<h1 align="center">Hey 👋</h1>
+<br clear="both">
+
+<p align="left">Hi🖐️<br>My name is Kartikey Lohani and I'm a pre-final year undergraduate student from SRM University</p>
 
 ###
 
-<p align="left">My name is Kartikey Lohani and I'm a pre-final year undergraduate student from SRM University</p>
+<br clear="both">
 
-###
-
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -114,14 +116,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KartikeyL/KartikeyL/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 
 <p align="left">BYE👋</p>
 
