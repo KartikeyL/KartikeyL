@@ -1,32 +1,38 @@
-<br clear="both">
-
-<img align="right" height="250" src="https://media1.tenor.com/m/U7MqILVMy94AAAAC/demon-slayer-mist-breathing.gif"  />
-
-###
-
-<br clear="both">
-
-<img align="left" height="300" src="https://media1.tenor.com/m/JjoBUmFSJzQAAAAC/muichiro.gif"  />
+<div align="center">
+  <img height="300" src="https://media1.tenor.com/m/JjoBUmFSJzQAAAAC/muichiro.gif"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hi🖐️<br>My name is Kartikey Lohani and I'm a pre-final year undergraduate student from SRM University</p>
+<h2 align="center">Hi🖐️</h2>
+
+###
+
+<h3 align="left">My name is Kartikey Lohani and I'm a pre-final year undergraduate student from SRM University</h3>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">About me</h3>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 10th class<br>📚 I'm currently learning computer fundamentals<br>🎯 Goals: Watching Movies,TV Shows,Gym,Sleep,Code,Repeat</p>
+<br clear="both">
+
+<div align="center">
+  <img height="250" src="https://media1.tenor.com/m/U7MqILVMy94AAAAC/demon-slayer-mist-breathing.gif"  />
+</div>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h4 align="left">✨ Creating bugs since 10th class<br>📚 I'm currently learning computer fundamentals<br>🎯 Goals: Watching Movies,TV Shows,Gym,Sleep,Code,Repeat</h4>
+
+###
+
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -78,7 +84,7 @@
 
 <br clear="both">
 
-<h3 align="center">Connect with Me👇</h3>
+<h2 align="center">Connect with Me👇</h2>
 
 ###
 
@@ -129,6 +135,8 @@
 
 <br clear="both">
 
-<img align="left" height="250" src="https://media1.tenor.com/m/r0ViAtLLeKAAAAAC/muichiro-hihih.gif"  />
+<div align="center">
+  <img height="250" src="https://media1.tenor.com/m/r0ViAtLLeKAAAAAC/muichiro-hihih.gif"  />
+</div>
 
 ###
