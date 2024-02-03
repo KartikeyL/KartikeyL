@@ -1,6 +1,12 @@
-<div align="center">
-  <img height="350" src="https://media1.tenor.com/m/JjoBUmFSJzQAAAAC/muichiro.gif"  />
-</div>
+<br clear="both">
+
+<img align="right" height="250" src="https://media1.tenor.com/m/U7MqILVMy94AAAAC/demon-slayer-mist-breathing.gif"  />
+
+###
+
+<br clear="both">
+
+<img align="left" height="300" src="https://media1.tenor.com/m/JjoBUmFSJzQAAAAC/muichiro.gif"  />
 
 ###
 
