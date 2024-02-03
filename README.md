@@ -129,7 +129,7 @@
 
 ###
 
-<p align="left">BYE👋</p>
+<p align="centre">BYE👋</p>
 
 ###
 
