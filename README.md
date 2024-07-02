@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">My name is Kartikey Lohani and I'm a pre-final year undergraduate student from SRM University</h3>
+<h3 align="left">My name is Kartikey Lohani and I'm a final year undergraduate student from SRM University</h3>
 
 ###
 
