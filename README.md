@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 10th class<br>📚 I'm currently learning computer fundamentals<br>🎯 Goals: Watching Movies,TV Shows,Gym,Sleep,Code,Repeat</h4>
+<h4 align="left">✨ Creating bugs since class 10th <br>📚 I'm currently learning computer fundamentals<br>🎯 Goals: Watching Movies,TV Shows,Gym,Sleep,Code,Repeat</h4>
 
 ###
 
@@ -111,9 +111,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=KartikeyL&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
