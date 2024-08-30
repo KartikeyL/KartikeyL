@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since class 10th <br>📚 I'm currently learning computer fundamentals<br>🎯 Goals: Watching Movies,TV Shows,Gym,Sleep,Code,Repeat</h4>
+<h4 align="left">✨ Creating bugs since class 10th <br>📚 Currently exploring the tech industry<br>🎯 Goals: Watching Movies,TV Shows,Gym,Sleep,Code,Repeat</h4>
 
 ###
 
@@ -92,14 +92,11 @@
   <a href="www.linkedin.com/in/kartikey-lohani-3a6374221" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/kartikey_lohani/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo"  />
-  </a>
   <a href="kartikey1001@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/KartL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="30" alt="hackerrank logo"  />
+  <a href="https://leetcode.com/u/Kart_L/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
   </a>
 </div>
 
